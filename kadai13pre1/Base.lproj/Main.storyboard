@@ -38,7 +38,7 @@
                                 </tableViewCellContentView>
                                 <connections>
                                     <outlet property="checkImageView" destination="VFq-Sp-s0W" id="8D6-Jm-wkz"/>
-                                    <outlet property="label1" destination="UqO-di-Ptl" id="kcI-5F-mkZ"/>
+                                    <outlet property="nameLabel" destination="UqO-di-Ptl" id="kcI-5F-mkZ"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
